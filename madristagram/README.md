@@ -32,6 +32,7 @@ Experience the best Real Madrid moments through our in-house video player. Watch
 - **Video Player Integration**: React Player
 
 ## Local Setup
+(Will be available soon as the website is ready to be deployed as it is under developement)
 
 1. **Clone the Repository:**
 
