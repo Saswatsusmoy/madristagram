@@ -84,3 +84,42 @@ Follow us on social media for the latest updates and announcements:
 We welcome contributions from the community. If you have suggestions, found a bug, or want to add a new feature, feel free to create a pull request.
 
 Thank you for being a part of Madristagram - Where the Passion for Real Madrid Unites! 🏆⚽️
+
+
+
+
+
+## Progress:
+
+- ## Frontend
+   - [x] Header
+   - [x] Footer
+   - [x] Blog List
+   - [x] Blog Detail
+   - [x] Shop
+   - [x] Shopping Cart
+   - [x] Dashboard
+   - [x] Video Player
+   - [x] Authentication (Login, Registration, User Profile)
+   - [x] Product Detail
+   - [x] Checkout
+   - [x] Error Page
+   - [x] Navigation Bar
+   - [x] Social Media Sharing
+
+- ## Backend
+   - [ ] Server Setup
+   - [ ] Database Configuration
+   - [ ] API Endpoints
+   - [ ] Dashboard Functionality
+   - [ ] Video Player Integration
+   - [ ] User Authentication
+   - [ ] Email Notification
+   - [ ] Payment Integration
+   - [ ] Server Security
+   - [ ] Logging and Monitoring
+   - [ ] Testing
+   - [ ] Deployment
+   - [ ] Documentation
+   - [ ] Monitoring and Analytics
+   - [ ] Social Media Integration
