@@ -1,5 +1,5 @@
 import React from 'react';
-import "./topbar.css"
+import "../top-navbar/topbar.css"
 
 const SignUp = () => {
 
